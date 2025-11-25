@@ -50,6 +50,5 @@ Next, Searched for public feature service which is similar to requirement Then i
 
  "https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/Enriched_USA_States_Generalized_Boundaries/FeatureServer/0"
 
-1. query results - i used to do query by two ways one is on map click take that mappoint and another way is by changing dropdown state values
-
+I implemented the query results in two ways: one is by capturing the map point on map click, and the other is by updating the results based on the selected dropdown state values.
 
