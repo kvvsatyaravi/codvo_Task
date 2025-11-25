@@ -31,15 +31,15 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Example Usage
 
-![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/exampleImages/1.png)
+![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/outputImages/1.png)
 
 Main View of demo application
 
-![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/exampleImages/2.png)
+![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/outputImages/2.png)
 
 Saved Session Output
 
-![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/exampleImages/3.png)
+![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/outputImages/3.png)
 
 Query Results output based on below 2,500 miles 
 
