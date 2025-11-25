@@ -31,11 +31,25 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Example Usage
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/exampleImages/1.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Main View of demo application
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/exampleImages/2.png)
+
+Saved Session Output
+
+![alt text](https://github.com/kvvsatyaravi/codvo_Task/blob/master/exampleImages/3.png)
+
+Query Results output based on below 2,500 miles 
+
+## Assumptions made
+
+Based on requirement first I search for open souce module leaflet and public feature service.
+Next, Searched for public feature service which is similar to requirement Then i found these feature service
+
+ "https://services.arcgis.com/P3ePLMYs2RVChkJx/ArcGIS/rest/services/Enriched_USA_States_Generalized_Boundaries/FeatureServer/0"
+
+1. query results - i used to do query by two ways one is on map click take that mappoint and another way is by changing dropdown state values
 
 
